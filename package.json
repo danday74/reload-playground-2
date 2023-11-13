@@ -1,0 +1,13 @@
+{
+  "name": "reload2",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "node watch-reload.js"
+  },
+  "dependencies": {
+    "livereload": "^0.9.3"
+  },
+  "devDependencies": {
+    "@types/livereload": "^0.9.5"
+  }
+}
